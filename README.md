@@ -1,60 +1,76 @@
-# Hi there 👋, I’m **Jatin Garg**
+# 👋 Hey, I’m Jatin Garg
 
-**Developer under Development**  
+### Senior Software Engineer • Backend & Distributed Systems
 
-Backend Enthusiast | Python & Java  | Algorithm Lover  
-
----
-
-## 🧠 About Me
-
-I’m a **Senior Software Engineer at Razorpay**, where I work on enhancing the international payments experience for customers globally.
-
-I’m passionate about backend engineering, distributed systems, and scalable architectures. Outside of work, I enjoy exploring new technologies, solving complex problems, and contributing to open-source projects.
+🚀 Building scalable, reliable payment systems at **Razorpay**  
+🧠 Passionate about backend engineering, system design, and algorithms  
+🌍 Interested in high-scale, globally distributed architectures  
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 💼 What I Do
 
-| Category | Technologies |
-|----------|--------------|
-| **Programming Languages** | Java, Python, C++, Go, SQL |
-| **Backend Development** | FastAPI, RESTful APIs, WebSockets, Socket Programming |
-| **Cloud Platforms** | AWS (EC2, S3, Lambda), GCP (Firebase Cloud Messaging) |
-| **Distributed Systems** | Redis Pub/Sub, Event-Driven Architecture, Messaging Queues, Concurrency Handling |
-| **Datastores** | MongoDB, PostgreSQL |
-| **Testing & Practices** | JUnit, Mockito, Code Reviews, Agile/Scrum, Clean Architecture |
+- Design and build **high-throughput backend systems**
+- Work extensively with **distributed systems & event-driven architectures**
+- Solve complex problems with a focus on **performance, reliability & scalability**
+- Contribute to **open-source** and continuously sharpen engineering fundamentals
 
 ---
 
-## ⭐ Featured Projects
+## 🛠 Tech Stack
 
-Here are some projects:
+### Languages
+`Java` · `Python` · `Go` · `C++` · `SQL`
 
-- 🔗 [Gamesplash](https://github.com/jatingarg36/gamesplash) — A platform to challenge others in Sudoku (Java)  
-- 🔗 [Walli](https://github.com/jatingarg36/Walli) — Android app for downloading cool wallpapers (Java)  
-- 🔗 [Algorithms](https://github.com/jatingarg36/Algorithms) — A collection of algorithm & data structure implementations (Java)  
-- 🔗 [Mario-Bros](https://github.com/jatingarg36/Mario-Bros) — A recreation of the classic Mario game (Java)  
+### Backend & Systems
+`FastAPI` · `REST APIs` · `WebSockets` · `Socket Programming`
 
----
+### Distributed Systems
+`Redis Pub/Sub` · `Messaging Queues` · `Concurrency` · `Event-Driven Design`
 
-## 📊 GitHub Stats
+### Databases
+`PostgreSQL` · `MongoDB`
 
-![Jatin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatingarg36&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatingarg36&layout=compact&theme=radical)
+### Cloud & Infra
+`AWS (EC2, S3, Lambda)` · `GCP (Firebase Cloud Messaging)`
 
----
-
-## 🔗 Let’s Connect
-
-- LinkedIn: [Profile](https://www.linkedin.com/in/jatingarg99/)
-
+### Engineering Practices
+`Clean Architecture` · `JUnit` · `Mockito` · `Code Reviews` · `Agile/Scrum`
 
 ---
 
-> **“Continuous improvement is better than delayed perfection.”**
+## 🚀 Featured Projects
+
+🔹 **[Gamesplash](https://github.com/jatingarg36/gamesplash)**  
+A competitive Sudoku platform built in Java with real-time challenges.
+
+🔹 **[Walli](https://github.com/jatingarg36/Walli)**  
+An Android app for discovering and downloading high-quality wallpapers.
+
+🔹 **[Algorithms](https://github.com/jatingarg36/Algorithms)**  
+Well-structured implementations of algorithms & data structures in Java.
+
+🔹 **[Mario-Bros](https://github.com/jatingarg36/Mario-Bros)**  
+A Java-based recreation of the classic Mario Bros game.
 
 ---
 
-Thanks for stopping by — check out my projects and feel free to reach out!  
-✨  
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatingarg36&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatingarg36&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/jatingarg99/
+- 💻 GitHub: https://github.com/jatingarg36
+
+---
+
+> **“Continuous improvement beats delayed perfection.”**
+
+⭐ If you like my work, feel free to star a repo or start a conversation!
