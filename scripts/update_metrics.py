@@ -1,7 +1,7 @@
 import os
-import requests
 import re
-from datetime import datetime, timedelta
+
+import requests
 
 USERNAME = "jatingarg36"
 README_FILE = "README.md"

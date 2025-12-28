@@ -1,7 +1,7 @@
 # 👋 Jatin Garg
 
 > Senior Software Engineer | Backend & Distributed Systems  
-> Building high-scale payment infrastructure at Razorpay
+> Building high-scale international payment systems at Razorpay
 
 ---
 
@@ -15,7 +15,18 @@ uptime: 99.99%
 region: global
 
 primary_capabilities:
-  - distributed_systems
   - backend_engineering
+  - distributed_systems
   - payment_infrastructure
   - algorithmic_problem_solving
+```
+
+## 📊 Live Engineering Metrics
+
+<!-- METRICS_START -->
+
+- Commits (last 30 days): **5**
+- Pull Requests opened: **0**
+- Pull Requests merged: **0**
+
+<!-- METRICS_END -->
