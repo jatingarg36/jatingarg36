@@ -25,8 +25,8 @@ primary_capabilities:
 
 <!-- METRICS_START -->
 
-- Commits (last 30 days): **11**
-- Pull Requests opened: **3**
+- Commits (last 30 days): **0**
+- Pull Requests opened: **1**
 - Pull Requests merged: **0**
 
 <!-- METRICS_END -->
