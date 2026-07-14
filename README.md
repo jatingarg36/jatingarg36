@@ -1,7 +1,7 @@
 # 👋 Jatin Garg
 
 > Senior Software Engineer | Backend & Distributed Systems  
-> Building high-scale international payment systems at Razorpay
+> Building high-scale international payment systems at Cloud Identity Company
 
 ---
 
